@@ -13,4 +13,4 @@ Este repositório serve para documentar minha evolução técnica, unindo minha 
 
 ---
 *“A tecnologia é a ferramenta, mas o negócio (ADM) é a estratégia.”*
-(troque NOME-DA-IMAGEM pelo nome que você deu ao seu print, ex: grafico.png): ![Gráfico de Desempenho](NOME-DA-IMAGEM.png)
+gestao-performance-industrial
