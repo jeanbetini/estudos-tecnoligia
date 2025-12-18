@@ -1,16 +1,15 @@
-# 📚 Meu Roadmap de Aprendizado
+# 🏭 Gestão de Performance Industrial: Análise de OEE
 
-Este repositório serve para documentar minha evolução técnica, unindo minha base de **Administração e FP&A** com novas ferramentas tecnológicas.
+## 📌 Sobre o Projeto
+Este projeto demonstra a aplicação de métricas de **FP&A e Administração Industrial** para o monitoramento da eficiência fabril. Utilizando o indicador **OEE (Overall Equipment Effectiveness)**, a ferramenta permite identificar gargalos de disponibilidade, perdas de performance e problemas de qualidade.
 
-## 🎯 Foco Atual
-- [ ] Domínio de **SQL** para consultas em bancos de dados financeiros.
-- [ ] Automação de relatórios com **Python** (Pandas/NumPy).
-- [ ] Dashboards avançados no **Power BI**.
+## 📊 Visualização dos Indicadores
+![Gráfico de Eficiência OEE](grafico-oee.png)
 
-## 📑 Trilhas de Conhecimento
-1. **Dados & Finanças:** Integrar bases de dados para análises de DRE e Fluxo de Caixa.
-2. **Versionamento:** Aprender Git/GitHub para manter histórico de modelos financeiros.
+## 🛠️ Funcionalidades da Planilha
+- **Cálculo Automatizado de OEE:** Integração de Disponibilidade, Performance e Qualidade.
+- **Análise de Variância:** Monitoramento entre capacidade nominal e produção real.
+- **Gestão de Perdas:** Estrutura para categorização de paradas.
 
 ---
-*“A tecnologia é a ferramenta, mas o negócio (ADM) é a estratégia.”*
-gestao-performance-industrial
+*Projeto desenvolvido para demonstração de competências em Gestão de Dados e Excel.*
